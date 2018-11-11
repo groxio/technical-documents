@@ -1,4 +1,4 @@
-![](assets/images/groxio-logo@0.5x.png)
+![](../assets/images/groxio-logo@0.5x.png)
 # Technical Glossary
 ### Version: Very, very draft
 
